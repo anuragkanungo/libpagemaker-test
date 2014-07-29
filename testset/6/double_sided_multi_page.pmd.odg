@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<office:document xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" office:mimetype="application/vnd.oasis.opendocument.graphics" office:version="1.0">
+  <office:settings>
+    <config:config-item-set config:name="ooo:view-settings">
+      <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaWidth" config:type="int">21007</config:config-item>
+      <config:config-item config:name="VisibleAreaHeight" config:type="int">29700</config:config-item>
+    </config:config-item-set>
+  </office:settings>
+  <office:font-face-decls>
+    <style:font-face style:name="Times New Roman" svg:font-family="Times New Roman"/>
+    <style:font-face style:font-charset="x-symbol" style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  </office:font-face-decls>
+  <office:styles/>
+  <office:automatic-styles>
+    <style:style style:family="graphic" style:name="gr_0" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="none" draw:shadow="hidden" draw:stroke="solid" svg:stroke-color="#000000" svg:stroke-opacity="100.0000%" svg:stroke-width="1.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_1" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="none" draw:stroke="none" fo:min-width="1.0000in"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_2" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ff00ff" draw:opacity="100" draw:shadow="hidden" draw:stroke="solid" svg:stroke-color="#000000" svg:stroke-opacity="100.0000%" svg:stroke-width="1.0000pt"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S0" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:text-align="left"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span0">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="72.0000pt" style:font-size-complex="72.0000pt" fo:color="#000000" fo:font-size="72.0000pt"/>
+    </style:style>
+    <style:page-layout style:name="PM0">
+      <style:page-layout-properties style:print-orientation="portrait" fo:margin-bottom="0in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:page-height="11.6931in" fo:page-width="8.2708in"/>
+    </style:page-layout>
+    <style:style style:family="drawing-page" style:name="dp1">
+      <style:drawing-page-properties draw:fill="none"/>
+    </style:style>
+  </office:automatic-styles>
+  <office:master-styles>
+    <style:master-page draw:style-name="dp1" style:name="Default" style:page-layout-name="PM0"/>
+    <style:master-page draw:style-name="dp1" style:name="Default" style:page-layout-name="PM0"/>
+    <style:master-page draw:style-name="dp1" style:name="Default" style:page-layout-name="PM0"/>
+    <style:master-page draw:style-name="dp1" style:name="Default" style:page-layout-name="PM0"/>
+    <style:master-page draw:style-name="dp1" style:name="Default" style:page-layout-name="PM0"/>
+  </office:master-styles>
+  <office:body>
+    <office:drawing>
+      <draw:page draw:master-page-name="Default" draw:name="page1" draw:style-name="dp1">
+        <draw:path draw:layer="layout" draw:style-name="gr_0" svg:d="M0 1428A5576 1428 0 0 0 11153 1428A5576 1428 0 1 0 0 1428 Z" svg:height="1.1250in" svg:viewBox="0 0 11153 2857" svg:width="4.3910in" svg:x="1.9375in" svg:y="4.2660in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_1" svg:height="2.4000in" svg:width="6.4958in" svg:x="0.9840in" svg:y="6.3743in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">Double<text:s/>Sided<text:s/>Multi<text:s/>Page</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+      </draw:page>
+      <draw:page draw:master-page-name="Default" draw:name="page2" draw:style-name="dp1">
+        <draw:path draw:layer="layout" draw:style-name="gr_0" svg:d="M0 0L10754 0L10754 7778L0 7778 Z" svg:height="3.0625in" svg:viewBox="0 0 10754 7778" svg:width="4.2340in" svg:x="3.2708in" svg:y="3.9063in"/>
+      </draw:page>
+      <draw:page draw:master-page-name="Default" draw:name="page3" draw:style-name="dp1">
+        <draw:path draw:layer="layout" draw:style-name="gr_0" svg:d="M0 2103A4295 2103 0 0 0 8591 2103A4295 2103 0 1 0 0 2103 Z" svg:height="1.6562in" svg:viewBox="0 0 8591 4206" svg:width="3.3826in" svg:x="-0.9840in" svg:y="8.9222in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_0" svg:d="M1929 5813L0 2906L1929 0L5789 0L7718 2906L5789 5813 Z" svg:height="2.2889in" svg:viewBox="0 0 7718 5813" svg:width="3.0389in" svg:x="3.5861in" svg:y="3.9063in"/>
+      </draw:page>
+      <draw:page draw:master-page-name="Default" draw:name="page4" draw:style-name="dp1">
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M0 3492L673 7956L5595 0L12878 7581 Z" svg:height="3.1326in" svg:viewBox="0 0 12878 7956" svg:width="5.0701in" svg:x="1.5028in" svg:y="2.2000in"/>
+      </draw:page>
+      <draw:page draw:master-page-name="Default" draw:name="page5" draw:style-name="dp1"/>
+    </office:drawing>
+  </office:body>
+</office:document>

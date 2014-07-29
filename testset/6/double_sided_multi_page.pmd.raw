@@ -1,0 +1,46 @@
+startDocument()
+  startPage(svg:height: 11.6931in, svg:width: 8.2708in)
+    drawPath (draw:fill: none, draw:fill-color: #ffffff, draw:opacity: 0, draw:stroke: solid, svg:d: ((librevenge:path-action: M, svg:x: 1.9375in, svg:y: 4.8285in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: false, svg:rx: 2.1955in, svg:ry: 0.5625in, svg:x: 6.3285in, svg:y: 4.8285in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: false, svg:rx: 2.1955in, svg:ry: 0.5625in, svg:x: 1.9375in, svg:y: 4.8285in), (librevenge:path-action: Z)), svg:stroke-color: #000000, svg:stroke-opacity: 100.0000%, svg:stroke-width: 1.0000pt)
+    startTextObject (draw:fill: none, draw:stroke: none, librevenge:rotate: 0.0000in, svg:height: 2.4000in, svg:width: 6.4958in, svg:x: 0.9840in, svg:y: 6.3743in)
+      openParagraph (fo:text-align: left)
+        openSpan(fo:color: #000000, fo:font-size: 72.0000pt, style:font-name: Times New Roman)
+          insertText (D)
+          insertText (o)
+          insertText (u)
+          insertText (b)
+          insertText (l)
+          insertText (e)
+          insertSpace
+          insertText (S)
+          insertText (i)
+          insertText (d)
+          insertText (e)
+          insertText (d)
+          insertSpace
+          insertText (M)
+          insertText (u)
+          insertText (l)
+          insertText (t)
+          insertText (i)
+          insertSpace
+          insertText (P)
+          insertText (a)
+          insertText (g)
+          insertText (e)
+        closeSpan
+      closeParagraph
+    endTextObject
+  endPage
+  startPage(svg:height: 11.6931in, svg:width: 8.2708in)
+    drawPolygon (draw:fill: none, draw:fill-color: #ffffff, draw:opacity: 0, draw:stroke: solid, svg:points: ((svg:x: 3.2708in, svg:y: 3.9063in), (svg:x: 7.5049in, svg:y: 3.9063in), (svg:x: 7.5049in, svg:y: 6.9688in), (svg:x: 3.2708in, svg:y: 6.9688in)), svg:stroke-color: #000000, svg:stroke-opacity: 100.0000%, svg:stroke-width: 1.0000pt)
+  endPage
+  startPage(svg:height: 11.6931in, svg:width: 8.2708in)
+    drawPath (draw:fill: none, draw:fill-color: #ffffff, draw:opacity: 0, draw:stroke: solid, svg:d: ((librevenge:path-action: M, svg:x: -0.9840in, svg:y: 9.7503in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: false, svg:rx: 1.6913in, svg:ry: 0.8281in, svg:x: 2.3986in, svg:y: 9.7503in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: false, svg:rx: 1.6913in, svg:ry: 0.8281in, svg:x: -0.9840in, svg:y: 9.7503in), (librevenge:path-action: Z)), svg:stroke-color: #000000, svg:stroke-opacity: 100.0000%, svg:stroke-width: 1.0000pt)
+    drawPolygon (draw:fill: none, draw:fill-color: #ffffff, draw:opacity: 0, draw:stroke: solid, svg:points: ((svg:x: 4.3458in, svg:y: 6.1951in), (svg:x: 3.5861in, svg:y: 5.0507in), (svg:x: 4.3458in, svg:y: 3.9063in), (svg:x: 5.8653in, svg:y: 3.9063in), (svg:x: 6.6250in, svg:y: 5.0507in), (svg:x: 5.8653in, svg:y: 6.1951in)), svg:stroke-color: #000000, svg:stroke-opacity: 100.0000%, svg:stroke-width: 1.0000pt)
+  endPage
+  startPage(svg:height: 11.6931in, svg:width: 8.2708in)
+    drawPolygon (draw:fill: solid, draw:fill-color: #ff00ff, draw:opacity: 100, draw:stroke: solid, svg:points: ((svg:x: 1.5028in, svg:y: 3.5750in), (svg:x: 1.7681in, svg:y: 5.3326in), (svg:x: 3.7056in, svg:y: 2.2000in), (svg:x: 6.5729in, svg:y: 5.1847in)), svg:stroke-color: #000000, svg:stroke-opacity: 100.0000%, svg:stroke-width: 1.0000pt)
+  endPage
+  startPage(svg:height: 11.6931in, svg:width: 8.2708in)
+  endPage
+endDocument

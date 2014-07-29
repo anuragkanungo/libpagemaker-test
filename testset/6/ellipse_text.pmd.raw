@@ -1,0 +1,32 @@
+startDocument()
+  startPage(svg:height: 11.0000in, svg:width: 8.4917in)
+    drawPath (draw:fill: none, draw:fill-color: #ffffff, draw:opacity: 0, draw:stroke: solid, svg:d: ((librevenge:path-action: M, svg:x: 2.4688in, svg:y: 4.3906in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: false, svg:rx: 2.0549in, svg:ry: 0.7031in, svg:x: 6.5785in, svg:y: 4.3906in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: false, svg:rx: 2.0549in, svg:ry: 0.7031in, svg:x: 2.4688in, svg:y: 4.3906in), (librevenge:path-action: Z)), svg:stroke-color: #000000, svg:stroke-opacity: 100.0000%, svg:stroke-width: 1.0000pt)
+    startTextObject (draw:fill: none, draw:stroke: none, librevenge:rotate: 0.0000in, svg:height: 0.6000in, svg:width: 3.7486in, svg:x: 2.6493in, svg:y: 3.8681in)
+      openParagraph (fo:text-align: left)
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, style:font-name: Times New Roman)
+          insertText (T)
+          insertText (e)
+          insertText (x)
+          insertText (t)
+          insertSpace
+          insertText (i)
+          insertText (n)
+          insertSpace
+          insertText (e)
+          insertText (l)
+          insertText (l)
+          insertText (i)
+          insertText (p)
+          insertText (s)
+          insertText (e)
+          insertLineBreak
+          insertText (H)
+          insertText (e)
+          insertText (l)
+          insertText (l)
+          insertText (o)
+        closeSpan
+      closeParagraph
+    endTextObject
+  endPage
+endDocument

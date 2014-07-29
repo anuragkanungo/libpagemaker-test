@@ -1,0 +1,8 @@
+startDocument()
+  startPage(svg:height: 11.0000in, svg:width: 8.4917in)
+    drawPolygon (draw:fill: none, draw:fill-color: #ffffff, draw:opacity: 0, draw:stroke: solid, svg:points: ((svg:x: 3.2812in, svg:y: 3.8438in), (svg:x: 4.5312in, svg:y: 3.8438in), (svg:x: 4.5312in, svg:y: 4.6875in), (svg:x: 3.2812in, svg:y: 4.6875in)), svg:stroke-color: #000000, svg:stroke-opacity: 100.0000%, svg:stroke-width: 1.0000pt)
+    drawPolygon (draw:fill: none, draw:fill-color: #ffffff, draw:opacity: 0, draw:stroke: solid, svg:points: ((svg:x: 3.2812in, svg:y: 4.0000in), (svg:x: 4.3674in, svg:y: 4.0000in), (svg:x: 4.3674in, svg:y: 4.8597in), (svg:x: 3.2812in, svg:y: 4.8597in)), svg:stroke-color: #000000, svg:stroke-opacity: 100.0000%, svg:stroke-width: 1.0000pt)
+    drawPolygon (draw:fill: none, draw:fill-color: #ffffff, draw:opacity: 0, draw:stroke: solid, svg:points: ((svg:x: 3.2812in, svg:y: 5.3597in), (svg:x: 3.8125in, svg:y: 5.3597in), (svg:x: 3.8125in, svg:y: 5.9847in), (svg:x: 3.2812in, svg:y: 5.9847in)), svg:stroke-color: #000000, svg:stroke-opacity: 100.0000%, svg:stroke-width: 1.0000pt)
+    drawPolygon (draw:fill: none, draw:fill-color: #ffffff, draw:opacity: 0, draw:stroke: solid, svg:points: ((svg:x: 3.2812in, svg:y: 5.4222in), (svg:x: 4.1951in, svg:y: 5.4222in), (svg:x: 4.1951in, svg:y: 6.1562in), (svg:x: 3.2812in, svg:y: 6.1562in)), svg:stroke-color: #000000, svg:stroke-opacity: 100.0000%, svg:stroke-width: 1.0000pt)
+  endPage
+endDocument

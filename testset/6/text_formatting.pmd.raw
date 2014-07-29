@@ -1,0 +1,140 @@
+startDocument()
+  startPage(svg:height: 11.0000in, svg:width: 8.4861in)
+    startTextObject (draw:fill: none, draw:stroke: none, librevenge:rotate: 0.0000in, svg:height: 5.4000in, svg:width: 6.7500in, svg:x: 1.5312in, svg:y: 2.7125in)
+      openParagraph (fo:text-align: left)
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
+          insertText (a)
+        closeSpan
+        openSpan(fo:color: #00ffff, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
+          insertText (b)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
+          insertText (c)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
+          insertLineBreak
+        closeSpan
+      closeParagraph
+      openParagraph (fo:text-align: justify, fo:text-align-last: justify)
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
+          insertText (d)
+          insertText (e)
+          insertText (f)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
+          insertLineBreak
+        closeSpan
+      closeParagraph
+      openParagraph (fo:text-align: justify)
+        openSpan(fo:color: #ffff00, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
+          insertText (G)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
+          insertText (H)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
+          insertText (i)
+          insertText (j)
+        closeSpan
+        openSpan(fo:color: #ff00ff, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
+          insertText (k)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, fo:font-variant: small-caps, style:font-name: Times New Roman)
+          insertText (L)
+          insertText (M)
+        closeSpan
+        openSpan(fo:color: #bfffbf, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
+          insertText (n)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
+          insertText (o)
+        closeSpan
+        openSpan(fo:color: #ff0000, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
+          insertText (p)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, fo:font-weight: bold, style:font-name: Times New Roman)
+          insertText (q)
+        closeSpan
+        openSpan(fo:color: #ff0000, fo:font-size: 36.0000pt, fo:font-weight: bold, style:font-name: Times New Roman)
+          insertText (r)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, fo:font-weight: bold, style:font-name: Times New Roman)
+          insertText (s)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, fo:font-style: italic, fo:font-weight: bold, style:font-name: Times New Roman)
+          insertText (t)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
+          insertText (u)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman, style:text-underline-type: single)
+          insertText (v)
+        closeSpan
+        openSpan(fo:color: #ff00ff, fo:font-size: 36.0000pt, style:font-name: Times New Roman, style:text-underline-type: single)
+          insertText (w)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
+          insertText (x)
+          insertText (y)
+        closeSpan
+        openSpan(fo:color: #ffbfbf, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
+          insertText (z)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
+          insertSpace
+          insertLineBreak
+          insertText (1)
+        closeSpan
+        openSpan(fo:color: #00ffff, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
+          insertText (2)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman, style:text-position: 33.3% 58.3%)
+          insertText (3)
+          insertText (4)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
+          insertText (5)
+          insertText (6)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman, style:text-position: 33.3% 58.3%)
+          insertText (7)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman, style:text-position: -33.3% 58.3%)
+          insertText (8)
+          insertText (9)
+          insertText (0)
+          insertLineBreak
+          insertLineBreak
+          insertLineBreak
+          insertLineBreak
+          insertTab
+          insertTab
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman, style:text-line-through-style: solid, style:text-position: -33.3% 58.3%)
+          insertText (T)
+          insertText (e)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman, style:text-position: -33.3% 58.3%)
+          insertText (s)
+          insertText (t)
+          insertText (i)
+          insertText (n)
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 35.8000pt, style:font-name: Times New Roman, style:text-position: -33.3% 58.3%)
+          insertText (g)
+          insertSpace
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman, style:text-position: -33.3% 58.3%)
+          insertLineBreak
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Courier, style:text-position: -33.3% 58.3%)
+          insertText (F)
+          insertText (o)
+          insertText (n)
+          insertText (t)
+          insertLineBreak
+        closeSpan
+      closeParagraph
+    endTextObject
+  endPage
+endDocument

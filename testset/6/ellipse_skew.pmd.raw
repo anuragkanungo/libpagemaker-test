@@ -1,0 +1,5 @@
+startDocument()
+  startPage(svg:height: 11.0000in, svg:width: 8.4917in)
+    drawPath (draw:fill: none, draw:fill-color: #ffffff, draw:opacity: 0, draw:stroke: solid, svg:d: ((librevenge:path-action: M, svg:x: 2.5997in, svg:y: 4.1719in), (librevenge:large-arc: false, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: false, svg:rx: 1.8087in, svg:ry: 0.7031in, svg:x: 6.2170in, svg:y: 4.1719in), (librevenge:large-arc: true, librevenge:path-action: A, librevenge:rotate: 0.0000, librevenge:sweep: false, svg:rx: 1.8087in, svg:ry: 0.7031in, svg:x: 2.5997in, svg:y: 4.1719in), (librevenge:path-action: Z)), svg:stroke-color: #000000, svg:stroke-opacity: 100.0000%, svg:stroke-width: 1.0000pt)
+  endPage
+endDocument

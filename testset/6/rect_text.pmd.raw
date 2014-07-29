@@ -1,0 +1,47 @@
+startDocument()
+  startPage(svg:height: 11.0000in, svg:width: 8.4917in)
+    drawPolygon (draw:fill: none, draw:fill-color: #ffffff, draw:opacity: 0, draw:stroke: solid, svg:points: ((svg:x: 2.5160in, svg:y: 3.1403in), (svg:x: 6.1875in, svg:y: 3.1403in), (svg:x: 6.1875in, svg:y: 5.6562in), (svg:x: 2.5160in, svg:y: 5.6562in)), svg:stroke-color: #000000, svg:stroke-opacity: 100.0000%, svg:stroke-width: 1.0000pt)
+    startTextObject (draw:fill: none, draw:stroke: none, librevenge:rotate: 0.0000in, svg:height: 0.6000in, svg:width: 3.3104in, svg:x: 2.6965in, svg:y: 3.3208in)
+      openParagraph (fo:text-align: left)
+        openSpan(fo:color: #ff0000, fo:font-size: 12.0000pt, style:font-name: Times New Roman)
+          insertText (H)
+          insertText (i)
+          insertSpace
+          insertText (t)
+          insertText (h)
+          insertText (i)
+          insertText (s)
+          insertSpace
+          insertText (i)
+          insertText (s)
+          insertSpace
+          insertText (c)
+          insertText (o)
+          insertText (l)
+          insertText (o)
+          insertText (r)
+          insertText (e)
+          insertText (d)
+          insertSpace
+          insertText (t)
+          insertText (e)
+          insertText (x)
+          insertText (t)
+          insertLineBreak
+          insertLineBreak
+        closeSpan
+        openSpan(fo:color: #000000, fo:font-size: 12.0000pt, style:font-name: Times New Roman, style:text-underline-type: single)
+          insertText (U)
+          insertText (n)
+          insertText (d)
+          insertText (e)
+          insertText (r)
+          insertText (l)
+          insertText (i)
+          insertText (n)
+          insertText (e)
+        closeSpan
+      closeParagraph
+    endTextObject
+  endPage
+endDocument

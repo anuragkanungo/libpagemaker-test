@@ -1,0 +1,5 @@
+startDocument()
+  startPage(svg:height: 11.0000in, svg:width: 8.4917in)
+    drawPolyline (draw:fill: none, draw:fill-color: #ffffff, draw:opacity: 0, draw:stroke: solid, svg:points: ((svg:x: 2.5308in, svg:y: 4.5410in), (svg:x: 7.1578in, svg:y: 4.9188in), (svg:x: 4.2358in, svg:y: 6.9881in), (svg:x: 5.3747in, svg:y: 2.6250in), (svg:x: 2.6425in, svg:y: 2.6551in), (svg:x: 3.3813in, svg:y: 6.0110in)), svg:stroke-color: #000000, svg:stroke-opacity: 100.0000%, svg:stroke-width: 1.0000pt)
+  endPage
+endDocument

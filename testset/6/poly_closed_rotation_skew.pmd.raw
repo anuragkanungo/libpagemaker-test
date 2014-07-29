@@ -1,0 +1,5 @@
+startDocument()
+  startPage(svg:height: 11.0000in, svg:width: 8.4917in)
+    drawPolygon (draw:fill: none, draw:fill-color: #ffffff, draw:opacity: 0, draw:stroke: solid, svg:points: ((svg:x: 4.1229in, svg:y: 8.1776in), (svg:x: 2.5523in, svg:y: 7.1747in), (svg:x: 2.8288in, svg:y: 4.6220in), (svg:x: 4.6747in, svg:y: 3.0731in), (svg:x: 6.2453in, svg:y: 4.0760in), (svg:x: 5.9688in, svg:y: 6.6287in)), svg:stroke-color: #000000, svg:stroke-opacity: 100.0000%, svg:stroke-width: 1.0000pt)
+  endPage
+endDocument

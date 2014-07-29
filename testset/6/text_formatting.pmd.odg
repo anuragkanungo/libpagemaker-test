@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<office:document xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" office:mimetype="application/vnd.oasis.opendocument.graphics" office:version="1.0">
+  <office:settings>
+    <config:config-item-set config:name="ooo:view-settings">
+      <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaWidth" config:type="int">21554</config:config-item>
+      <config:config-item config:name="VisibleAreaHeight" config:type="int">27940</config:config-item>
+    </config:config-item-set>
+  </office:settings>
+  <office:font-face-decls>
+    <style:font-face style:name="Courier" svg:font-family="Courier"/>
+    <style:font-face style:name="Times New Roman" svg:font-family="Times New Roman"/>
+    <style:font-face style:font-charset="x-symbol" style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  </office:font-face-decls>
+  <office:styles/>
+  <office:automatic-styles>
+    <style:style style:family="graphic" style:name="gr_0" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="none" draw:stroke="none" fo:min-width="1.0000in"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S0" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:text-align="left"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S1" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:text-align="justify" fo:text-align-last="justify"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S2" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:text-align="justify"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span0">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="36.0000pt" style:font-size-complex="36.0000pt" fo:color="#000000" fo:font-size="36.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span1">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="36.0000pt" style:font-size-complex="36.0000pt" fo:color="#00ffff" fo:font-size="36.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span10">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="36.0000pt" style:font-size-complex="36.0000pt" style:text-underline-type="single" fo:color="#000000" fo:font-size="36.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span11">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="36.0000pt" style:font-size-complex="36.0000pt" style:text-underline-type="single" fo:color="#ff00ff" fo:font-size="36.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span12">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="36.0000pt" style:font-size-complex="36.0000pt" fo:color="#ffbfbf" fo:font-size="36.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span13">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="36.0000pt" style:font-size-complex="36.0000pt" style:text-position="33.3% 58.3%" fo:color="#000000" fo:font-size="36.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span14">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="36.0000pt" style:font-size-complex="36.0000pt" style:text-position="-33.3% 58.3%" fo:color="#000000" fo:font-size="36.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span15">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="36.0000pt" style:font-size-complex="36.0000pt" style:text-line-through-style="solid" style:text-position="-33.3% 58.3%" fo:color="#000000" fo:font-size="36.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span16">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="35.8000pt" style:font-size-complex="35.8000pt" style:text-position="-33.3% 58.3%" fo:color="#000000" fo:font-size="35.8000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span17">
+      <style:text-properties style:font-name="Courier" style:font-name-asian="Courier" style:font-name-complex="Courier" style:font-size-asian="36.0000pt" style:font-size-complex="36.0000pt" style:text-position="-33.3% 58.3%" fo:color="#000000" fo:font-size="36.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span2">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="36.0000pt" style:font-size-complex="36.0000pt" fo:color="#ffff00" fo:font-size="36.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span3">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="36.0000pt" style:font-size-complex="36.0000pt" fo:color="#ff00ff" fo:font-size="36.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span4">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="36.0000pt" style:font-size-complex="36.0000pt" fo:color="#000000" fo:font-size="36.0000pt" fo:font-variant="small-caps"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span5">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="36.0000pt" style:font-size-complex="36.0000pt" fo:color="#bfffbf" fo:font-size="36.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span6">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="36.0000pt" style:font-size-complex="36.0000pt" fo:color="#ff0000" fo:font-size="36.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span7">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="36.0000pt" style:font-size-complex="36.0000pt" style:font-weight-asian="bold" style:font-weight-complex="bold" fo:color="#000000" fo:font-size="36.0000pt" fo:font-weight="bold"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span8">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="36.0000pt" style:font-size-complex="36.0000pt" style:font-weight-asian="bold" style:font-weight-complex="bold" fo:color="#ff0000" fo:font-size="36.0000pt" fo:font-weight="bold"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span9">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="36.0000pt" style:font-size-complex="36.0000pt" style:font-style-asian="italic" style:font-style-complex="italic" style:font-weight-asian="bold" style:font-weight-complex="bold" fo:color="#000000" fo:font-size="36.0000pt" fo:font-style="italic" fo:font-weight="bold"/>
+    </style:style>
+    <style:page-layout style:name="PM0">
+      <style:page-layout-properties style:print-orientation="portrait" fo:margin-bottom="0in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:page-height="11.0000in" fo:page-width="8.4861in"/>
+    </style:page-layout>
+    <style:style style:family="drawing-page" style:name="dp1">
+      <style:drawing-page-properties draw:fill="none"/>
+    </style:style>
+  </office:automatic-styles>
+  <office:master-styles>
+    <style:master-page draw:style-name="dp1" style:name="Default" style:page-layout-name="PM0"/>
+  </office:master-styles>
+  <office:body>
+    <office:drawing>
+      <draw:page draw:master-page-name="Default" draw:name="page1" draw:style-name="dp1">
+        <draw:frame draw:layer="layout" draw:style-name="gr_0" svg:height="5.4000in" svg:width="6.7500in" svg:x="1.5312in" svg:y="2.7125in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">a</text:span>
+              <text:span text:style-name="Span1">b</text:span>
+              <text:span text:style-name="Span0">c</text:span>
+              <text:span text:style-name="Span0">
+                <text:line-break/>
+              </text:span>
+            </text:p>
+            <text:p text:style-name="S1">
+              <text:span text:style-name="Span0">def</text:span>
+              <text:span text:style-name="Span0">
+                <text:line-break/>
+              </text:span>
+            </text:p>
+            <text:p text:style-name="S2">
+              <text:span text:style-name="Span2">G</text:span>
+              <text:span text:style-name="Span0">H</text:span>
+              <text:span text:style-name="Span0">ij</text:span>
+              <text:span text:style-name="Span3">k</text:span>
+              <text:span text:style-name="Span4">LM</text:span>
+              <text:span text:style-name="Span5">n</text:span>
+              <text:span text:style-name="Span0">o</text:span>
+              <text:span text:style-name="Span6">p</text:span>
+              <text:span text:style-name="Span7">q</text:span>
+              <text:span text:style-name="Span8">r</text:span>
+              <text:span text:style-name="Span7">s</text:span>
+              <text:span text:style-name="Span9">t</text:span>
+              <text:span text:style-name="Span0">u</text:span>
+              <text:span text:style-name="Span10">v</text:span>
+              <text:span text:style-name="Span11">w</text:span>
+              <text:span text:style-name="Span0">xy</text:span>
+              <text:span text:style-name="Span12">z</text:span>
+              <text:span text:style-name="Span0"><text:s/><text:line-break/>1</text:span>
+              <text:span text:style-name="Span1">2</text:span>
+              <text:span text:style-name="Span13">34</text:span>
+              <text:span text:style-name="Span0">56</text:span>
+              <text:span text:style-name="Span13">7</text:span>
+              <text:span text:style-name="Span14">890<text:line-break/><text:line-break/><text:line-break/><text:line-break/><text:tab/><text:tab/></text:span>
+              <text:span text:style-name="Span15">Te</text:span>
+              <text:span text:style-name="Span14">stin</text:span>
+              <text:span text:style-name="Span16">g<text:s/></text:span>
+              <text:span text:style-name="Span14">
+                <text:line-break/>
+              </text:span>
+              <text:span text:style-name="Span17">Font<text:line-break/></text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+      </draw:page>
+    </office:drawing>
+  </office:body>
+</office:document>

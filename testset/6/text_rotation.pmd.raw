@@ -1,0 +1,31 @@
+startDocument()
+  startPage(svg:height: 11.0000in, svg:width: 8.4917in)
+    startTextObject (draw:fill: none, draw:stroke: none, librevenge:rotate: -20.0000in, svg:height: 0.6000in, svg:width: 6.7500in, svg:x: 1.1012in, svg:y: 3.2637in)
+      openParagraph (fo:text-align: left)
+        openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
+          insertTab
+          insertText (T)
+          insertText (h)
+          insertText (i)
+          insertText (s)
+          insertSpace
+          insertText (t)
+          insertText (e)
+          insertText (x)
+          insertText (t)
+          insertSpace
+          insertText (i)
+          insertText (s)
+          insertSpace
+          insertText (R)
+          insertText (o)
+          insertText (t)
+          insertText (a)
+          insertText (t)
+          insertText (e)
+          insertText (d)
+        closeSpan
+      closeParagraph
+    endTextObject
+  endPage
+endDocument
