@@ -20,7 +20,7 @@ sub GenRaw {
         @fileList = split( /\n/, $FL );
         foreach $file (@fileList) {
             $filePath = 'testset/' . $pmdVersion . '/' . $file;
-            `pmd2raw $filePath >$filePath.raw 2>$filePath.raw`;
+            `pmd2raw $filePath >$filePath.raw 2>/dev/null`;
             `pmd2xhtml $filePath > $filePath.xhtml 2>/dev/null`;
             `xmllint --c14n --nonet --dropdtd $filePath.xhtml > $filePath.xhtml.tmp 2>/dev/null`;
             `xmllint --format $filePath.xhtml.tmp > $filePath.xhtml 2>/dev/null`;
