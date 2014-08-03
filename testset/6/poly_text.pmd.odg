@@ -43,7 +43,7 @@
         <draw:frame draw:layer="layout" draw:style-name="gr_1" svg:height="0.6000in" svg:width="3.0208in" svg:x="2.6688in" svg:y="3.6826in">
           <draw:text-box>
             <text:p text:style-name="S0">
-              <text:span text:style-name="Span0">Poly<text:s/>text<text:line-break/>Hello<text:line-break/>Testing</text:span>
+              <text:span text:style-name="Span0">Poly text<text:line-break/>Hello<text:line-break/>Testing</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>

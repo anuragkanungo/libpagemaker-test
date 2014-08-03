@@ -4,29 +4,7 @@ startDocument()
     startTextObject (draw:fill: none, draw:stroke: none, librevenge:rotate: 0.0000in, svg:height: 2.4000in, svg:width: 6.4958in, svg:x: 0.9840in, svg:y: 6.3743in)
       openParagraph (fo:text-align: left)
         openSpan(fo:color: #000000, fo:font-size: 72.0000pt, style:font-name: Times New Roman)
-          insertText (D)
-          insertText (o)
-          insertText (u)
-          insertText (b)
-          insertText (l)
-          insertText (e)
-          insertSpace
-          insertText (S)
-          insertText (i)
-          insertText (d)
-          insertText (e)
-          insertText (d)
-          insertSpace
-          insertText (M)
-          insertText (u)
-          insertText (l)
-          insertText (t)
-          insertText (i)
-          insertSpace
-          insertText (P)
-          insertText (a)
-          insertText (g)
-          insertText (e)
+          insertText (Double Sided Multi Page)
         closeSpan
       closeParagraph
     endTextObject

@@ -59,7 +59,7 @@
         <draw:frame draw:layer="layout" draw:style-name="gr_2" svg:height="0.2000in" svg:width="6.7500in" svg:x="1.0000in" svg:y="4.7028in">
           <draw:text-box>
             <text:p text:style-name="S0">
-              <text:span text:style-name="Span0">Multi<text:s/>page<text:s/>single<text:s/>sided</text:span>
+              <text:span text:style-name="Span0">Multi page single sided</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>

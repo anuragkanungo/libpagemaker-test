@@ -50,7 +50,7 @@
         <draw:frame draw:layer="layout" draw:style-name="gr_1" svg:height="2.4000in" svg:width="6.4958in" svg:x="0.9840in" svg:y="6.3743in">
           <draw:text-box>
             <text:p text:style-name="S0">
-              <text:span text:style-name="Span0">Double<text:s/>Sided<text:s/>Multi<text:s/>Page</text:span>
+              <text:span text:style-name="Span0">Double Sided Multi Page</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>

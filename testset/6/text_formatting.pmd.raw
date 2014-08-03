@@ -17,9 +17,7 @@ startDocument()
       closeParagraph
       openParagraph (fo:text-align: justify, fo:text-align-last: justify)
         openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
-          insertText (d)
-          insertText (e)
-          insertText (f)
+          insertText (def)
         closeSpan
         openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
           insertLineBreak
@@ -33,15 +31,13 @@ startDocument()
           insertText (H)
         closeSpan
         openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
-          insertText (i)
-          insertText (j)
+          insertText (ij)
         closeSpan
         openSpan(fo:color: #ff00ff, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
           insertText (k)
         closeSpan
         openSpan(fo:color: #000000, fo:font-size: 36.0000pt, fo:font-variant: small-caps, style:font-name: Times New Roman)
-          insertText (L)
-          insertText (M)
+          insertText (LM)
         closeSpan
         openSpan(fo:color: #bfffbf, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
           insertText (n)
@@ -74,14 +70,13 @@ startDocument()
           insertText (w)
         closeSpan
         openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
-          insertText (x)
-          insertText (y)
+          insertText (xy)
         closeSpan
         openSpan(fo:color: #ffbfbf, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
           insertText (z)
         closeSpan
         openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
-          insertSpace
+          insertText ( )
           insertLineBreak
           insertText (1)
         closeSpan
@@ -89,20 +84,16 @@ startDocument()
           insertText (2)
         closeSpan
         openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman, style:text-position: 33.3% 58.3%)
-          insertText (3)
-          insertText (4)
+          insertText (34)
         closeSpan
         openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
-          insertText (5)
-          insertText (6)
+          insertText (56)
         closeSpan
         openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman, style:text-position: 33.3% 58.3%)
           insertText (7)
         closeSpan
         openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman, style:text-position: -33.3% 58.3%)
-          insertText (8)
-          insertText (9)
-          insertText (0)
+          insertText (890)
           insertLineBreak
           insertLineBreak
           insertLineBreak
@@ -111,27 +102,19 @@ startDocument()
           insertTab
         closeSpan
         openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman, style:text-line-through-style: solid, style:text-position: -33.3% 58.3%)
-          insertText (T)
-          insertText (e)
+          insertText (Te)
         closeSpan
         openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman, style:text-position: -33.3% 58.3%)
-          insertText (s)
-          insertText (t)
-          insertText (i)
-          insertText (n)
+          insertText (stin)
         closeSpan
         openSpan(fo:color: #000000, fo:font-size: 35.8000pt, style:font-name: Times New Roman, style:text-position: -33.3% 58.3%)
-          insertText (g)
-          insertSpace
+          insertText (g )
         closeSpan
         openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman, style:text-position: -33.3% 58.3%)
           insertLineBreak
         closeSpan
         openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Courier, style:text-position: -33.3% 58.3%)
-          insertText (F)
-          insertText (o)
-          insertText (n)
-          insertText (t)
+          insertText (Font)
           insertLineBreak
         closeSpan
       closeParagraph

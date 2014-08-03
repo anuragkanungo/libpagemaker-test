@@ -4,26 +4,7 @@ startDocument()
       openParagraph (fo:text-align: left)
         openSpan(fo:color: #000000, fo:font-size: 36.0000pt, style:font-name: Times New Roman)
           insertTab
-          insertText (T)
-          insertText (h)
-          insertText (i)
-          insertText (s)
-          insertSpace
-          insertText (t)
-          insertText (e)
-          insertText (x)
-          insertText (t)
-          insertSpace
-          insertText (i)
-          insertText (s)
-          insertSpace
-          insertText (R)
-          insertText (o)
-          insertText (t)
-          insertText (a)
-          insertText (t)
-          insertText (e)
-          insertText (d)
+          insertText (This text is Rotated)
         closeSpan
       closeParagraph
     endTextObject

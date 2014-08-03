@@ -46,7 +46,7 @@
         <draw:frame draw:layer="layout" draw:style-name="gr_1" svg:height="0.6000in" svg:width="3.3104in" svg:x="2.6965in" svg:y="3.3208in">
           <draw:text-box>
             <text:p text:style-name="S0">
-              <text:span text:style-name="Span0">Hi<text:s/>this<text:s/>is<text:s/>colored<text:s/>text<text:line-break/><text:line-break/></text:span>
+              <text:span text:style-name="Span0">Hi this is colored text<text:line-break/><text:line-break/></text:span>
               <text:span text:style-name="Span1">Underline</text:span>
             </text:p>
           </draw:text-box>

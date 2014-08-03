@@ -4,29 +4,11 @@ startDocument()
     startTextObject (draw:fill: none, draw:stroke: none, librevenge:rotate: 0.0000in, svg:height: 0.6000in, svg:width: 3.0208in, svg:x: 2.6688in, svg:y: 3.6826in)
       openParagraph (fo:text-align: left)
         openSpan(fo:color: #000000, fo:font-size: 12.0000pt, style:font-name: Times New Roman)
-          insertText (P)
-          insertText (o)
-          insertText (l)
-          insertText (y)
-          insertSpace
-          insertText (t)
-          insertText (e)
-          insertText (x)
-          insertText (t)
+          insertText (Poly text)
           insertLineBreak
-          insertText (H)
-          insertText (e)
-          insertText (l)
-          insertText (l)
-          insertText (o)
+          insertText (Hello)
           insertLineBreak
-          insertText (T)
-          insertText (e)
-          insertText (s)
-          insertText (t)
-          insertText (i)
-          insertText (n)
-          insertText (g)
+          insertText (Testing)
         closeSpan
       closeParagraph
     endTextObject

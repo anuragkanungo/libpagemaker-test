@@ -43,7 +43,7 @@
         <draw:frame draw:layer="layout" draw:style-name="gr_1" svg:height="0.6000in" svg:width="3.7486in" svg:x="2.6493in" svg:y="3.8681in">
           <draw:text-box>
             <text:p text:style-name="S0">
-              <text:span text:style-name="Span0">Text<text:s/>in<text:s/>ellipse<text:line-break/>Hello</text:span>
+              <text:span text:style-name="Span0">Text in ellipse<text:line-break/>Hello</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>

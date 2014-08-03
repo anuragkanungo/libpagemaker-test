@@ -39,7 +39,7 @@
         <draw:frame draw:layer="layout" draw:style-name="gr_0" svg:height="1.2000in" svg:width="6.7500in" svg:x="1.5312in" svg:y="2.7125in">
           <draw:text-box>
             <text:p text:style-name="S0">
-              <text:span text:style-name="Span0">abcdefghijklmnopqrstuvwxyz<text:s/>1234567890</text:span>
+              <text:span text:style-name="Span0">abcdefghijklmnopqrstuvwxyz 1234567890</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>

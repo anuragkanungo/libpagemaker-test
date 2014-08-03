@@ -128,7 +128,7 @@
               <text:span text:style-name="Span11">w</text:span>
               <text:span text:style-name="Span0">xy</text:span>
               <text:span text:style-name="Span12">z</text:span>
-              <text:span text:style-name="Span0"><text:s/><text:line-break/>1</text:span>
+              <text:span text:style-name="Span0"><text:line-break/>1</text:span>
               <text:span text:style-name="Span1">2</text:span>
               <text:span text:style-name="Span13">34</text:span>
               <text:span text:style-name="Span0">56</text:span>
@@ -136,7 +136,7 @@
               <text:span text:style-name="Span14">890<text:line-break/><text:line-break/><text:line-break/><text:line-break/><text:tab/><text:tab/></text:span>
               <text:span text:style-name="Span15">Te</text:span>
               <text:span text:style-name="Span14">stin</text:span>
-              <text:span text:style-name="Span16">g<text:s/></text:span>
+              <text:span text:style-name="Span16">g </text:span>
               <text:span text:style-name="Span14">
                 <text:line-break/>
               </text:span>

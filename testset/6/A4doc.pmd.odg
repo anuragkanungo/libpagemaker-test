@@ -43,7 +43,7 @@
         <draw:frame draw:layer="layout" draw:style-name="gr_1" svg:height="0.2000in" svg:width="6.4958in" svg:x="2.3910in" svg:y="3.2222in">
           <draw:text-box>
             <text:p text:style-name="S0">
-              <text:span text:style-name="Span0"><text:s/>THis<text:s/>is<text:s/>A4<text:s/>Document</text:span>
+              <text:span text:style-name="Span0"> THis is A4 Document</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
