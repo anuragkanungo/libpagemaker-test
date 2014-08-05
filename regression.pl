@@ -118,7 +118,7 @@ sub RegTest {
     }
 
     my @pmdVersionList = (
-        "6"
+        "6.0"
     );
 
     my $pmdVersion;

@@ -4,7 +4,7 @@ $html = 1;
 
 sub GenRaw {
 
-    $PMDVL = '6';
+    $PMDVL = '6.0';
 
     @pmdVersionList = split( /\s+/, $PMDVL );
 
