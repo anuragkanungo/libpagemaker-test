@@ -28,3 +28,5 @@ poly_open.pmd
 rect_rotation.pmd
 shape_fill_stroke.pmd
 text_rotation.pmd
+sub_records.pmd
+image.pmd

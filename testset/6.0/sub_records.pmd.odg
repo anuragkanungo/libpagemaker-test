@@ -1,0 +1,483 @@
+<?xml version="1.0"?>
+<office:document xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" office:mimetype="application/vnd.oasis.opendocument.graphics" office:version="1.0">
+  <office:settings>
+    <config:config-item-set config:name="ooo:view-settings">
+      <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaWidth" config:type="int">29700</config:config-item>
+      <config:config-item config:name="VisibleAreaHeight" config:type="int">21000</config:config-item>
+    </config:config-item-set>
+  </office:settings>
+  <office:font-face-decls>
+    <style:font-face style:name="AGaramond" svg:font-family="AGaramond"/>
+    <style:font-face style:name="Myriad Roman" svg:font-family="Myriad Roman"/>
+    <style:font-face style:name="Times" svg:font-family="Times"/>
+    <style:font-face style:name="Times New Roman" svg:font-family="Times New Roman"/>
+    <style:font-face style:font-charset="x-symbol" style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  </office:font-face-decls>
+  <office:styles/>
+  <office:automatic-styles>
+    <style:style style:family="graphic" style:name="gr_0" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#8c5900" draw:opacity="5" draw:shadow="hidden" draw:stroke="solid" svg:stroke-color="#ffffff" svg:stroke-opacity="100.0000%" svg:stroke-width="0.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_1" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="none" draw:shadow="hidden" draw:stroke="solid" svg:stroke-color="#ffffff" svg:stroke-opacity="100.0000%" svg:stroke-width="0.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_2" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#4c0019" draw:opacity="100" draw:shadow="hidden" draw:stroke="solid" svg:stroke-color="#ffffff" svg:stroke-opacity="100.0000%" svg:stroke-width="0.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_3" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#0000a5" draw:opacity="100" draw:shadow="hidden" draw:stroke="solid" svg:stroke-color="#ffffff" svg:stroke-opacity="40.0000%" svg:stroke-width="0.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_4" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#8c5900" draw:opacity="100" draw:shadow="hidden" draw:stroke="solid" svg:stroke-color="#ffffff" svg:stroke-opacity="100.0000%" svg:stroke-width="0.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_5" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#009900" draw:opacity="100" draw:shadow="hidden" draw:stroke="solid" svg:stroke-color="#ffffff" svg:stroke-opacity="100.0000%" svg:stroke-width="0.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_6" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="0" draw:shadow="hidden" draw:stroke="solid" svg:stroke-color="#000000" svg:stroke-opacity="0.0000%" svg:stroke-width="0.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_7" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#000000" draw:opacity="20" draw:shadow="hidden" draw:stroke="solid" svg:stroke-color="#ffffff" svg:stroke-opacity="100.0000%" svg:stroke-width="0.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_8" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#000000" draw:opacity="100" draw:shadow="hidden" draw:stroke="solid" svg:stroke-color="#000000" svg:stroke-opacity="100.0000%" svg:stroke-width="1.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_9" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="none" draw:shadow="hidden" draw:stroke="solid" svg:stroke-color="#000000" svg:stroke-opacity="100.0000%" svg:stroke-width="1.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_10" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="none" draw:stroke="none" fo:min-width="1.0000in"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_11" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="none" draw:shadow="hidden" draw:stroke="solid" svg:stroke-color="#000000" svg:stroke-opacity="100.0000%" svg:stroke-width="0.4000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_12" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#000000" draw:opacity="20" draw:shadow="hidden" draw:stroke="solid" svg:stroke-color="#ffffff" svg:stroke-opacity="40.0000%" svg:stroke-width="0.0000pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_13" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#0000a5" draw:opacity="100" draw:shadow="hidden" draw:stroke="solid" svg:stroke-color="#ffffff" svg:stroke-opacity="100.0000%" svg:stroke-width="0.0000pt"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S0" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:text-align="center"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S1" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:margin-bottom="0.0500in" fo:margin-left="1.6250in" fo:text-align="left" fo:text-indent="43.8861in"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S2" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:text-align="left"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S3" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:text-align="justify" fo:text-align-last="justify"/>
+    </style:style>
+    <style:style style:family="paragraph" style:name="S4" style:parent-style-name="Standard">
+      <style:paragraph-properties style:justify-single-word="false" fo:text-align="justify" fo:text-indent="0.7500in"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span0">
+      <style:text-properties style:font-name="AGaramond" style:font-name-asian="AGaramond" style:font-name-complex="AGaramond" style:font-size-asian="8.5000pt" style:font-size-complex="8.5000pt" fo:color="#000000" fo:font-size="8.5000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span1">
+      <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman" style:font-name-complex="Times New Roman" style:font-size-asian="12.0000pt" style:font-size-complex="12.0000pt" fo:color="#ffffff" fo:font-size="12.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span10">
+      <style:text-properties style:font-name="Myriad Roman" style:font-name-asian="Myriad Roman" style:font-name-complex="Myriad Roman" style:font-size-asian="7.0000pt" style:font-size-complex="7.0000pt" style:font-weight-asian="bold" style:font-weight-complex="bold" fo:color="#000000" fo:font-size="7.0000pt" fo:font-weight="bold"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span11">
+      <style:text-properties style:font-name="Myriad Roman" style:font-name-asian="Myriad Roman" style:font-name-complex="Myriad Roman" style:font-size-asian="9.0000pt" style:font-size-complex="9.0000pt" fo:color="#999999" fo:font-size="9.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span12">
+      <style:text-properties style:font-name="AGaramond" style:font-name-asian="AGaramond" style:font-name-complex="AGaramond" style:font-size-asian="8.0000pt" style:font-size-complex="8.0000pt" style:font-style-asian="italic" style:font-style-complex="italic" fo:color="#000000" fo:font-size="8.0000pt" fo:font-style="italic"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span13">
+      <style:text-properties style:font-name="AGaramond" style:font-name-asian="AGaramond" style:font-name-complex="AGaramond" style:font-size-asian="67.0000pt" style:font-size-complex="67.0000pt" style:font-weight-asian="bold" style:font-weight-complex="bold" fo:color="#9999db" fo:font-size="67.0000pt" fo:font-weight="bold"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span14">
+      <style:text-properties style:font-name="AGaramond" style:font-name-asian="AGaramond" style:font-name-complex="AGaramond" style:font-size-asian="10.0000pt" style:font-size-complex="10.0000pt" fo:color="#000000" fo:font-size="10.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span15">
+      <style:text-properties style:font-name="AGaramond" style:font-name-asian="AGaramond" style:font-name-complex="AGaramond" style:font-size-asian="140.0000pt" style:font-size-complex="140.0000pt" style:font-weight-asian="bold" style:font-weight-complex="bold" fo:color="#f9f6f2" fo:font-size="140.0000pt" fo:font-weight="bold"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span16">
+      <style:text-properties style:font-name="AGaramond" style:font-name-asian="AGaramond" style:font-name-complex="AGaramond" style:font-size-asian="140.0000pt" style:font-size-complex="140.0000pt" style:font-weight-asian="bold" style:font-weight-complex="bold" fo:color="#ffffff" fo:font-size="140.0000pt" fo:font-weight="bold"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span17">
+      <style:text-properties style:font-name="AGaramond" style:font-name-asian="AGaramond" style:font-name-complex="AGaramond" style:font-size-asian="140.0000pt" style:font-size-complex="140.0000pt" style:font-weight-asian="bold" style:font-weight-complex="bold" fo:color="#f3eee5" fo:font-size="140.0000pt" fo:font-weight="bold"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span2">
+      <style:text-properties style:font-name="AGaramond" style:font-name-asian="AGaramond" style:font-name-complex="AGaramond" style:font-size-asian="16.0000pt" style:font-size-complex="16.0000pt" style:font-style-asian="italic" style:font-style-complex="italic" style:font-weight-asian="bold" style:font-weight-complex="bold" fo:color="#000000" fo:font-size="16.0000pt" fo:font-style="italic" fo:font-weight="bold"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span3">
+      <style:text-properties style:font-name="Times" style:font-name-asian="Times" style:font-name-complex="Times" style:font-size-asian="8.0000pt" style:font-size-complex="8.0000pt" fo:color="#999999" fo:font-size="8.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span4">
+      <style:text-properties style:font-name="Myriad Roman" style:font-name-asian="Myriad Roman" style:font-name-complex="Myriad Roman" style:font-size-asian="8.0000pt" style:font-size-complex="8.0000pt" fo:color="#999999" fo:font-size="8.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span5">
+      <style:text-properties style:font-name="Myriad Roman" style:font-name-asian="Myriad Roman" style:font-name-complex="Myriad Roman" style:font-size-asian="10.0000pt" style:font-size-complex="10.0000pt" fo:color="#666666" fo:font-size="10.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span6">
+      <style:text-properties style:font-name="Myriad Roman" style:font-name-asian="Myriad Roman" style:font-name-complex="Myriad Roman" style:font-size-asian="10.0000pt" style:font-size-complex="10.0000pt" style:font-weight-asian="bold" style:font-weight-complex="bold" fo:color="#666666" fo:font-size="10.0000pt" fo:font-weight="bold"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span7">
+      <style:text-properties style:font-name="Myriad Roman" style:font-name-asian="Myriad Roman" style:font-name-complex="Myriad Roman" style:font-size-asian="8.0000pt" style:font-size-complex="8.0000pt" fo:color="#000000" fo:font-size="8.0000pt"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span8">
+      <style:text-properties style:font-name="Myriad Roman" style:font-name-asian="Myriad Roman" style:font-name-complex="Myriad Roman" style:font-size-asian="8.0000pt" style:font-size-complex="8.0000pt" style:font-weight-asian="bold" style:font-weight-complex="bold" fo:color="#000000" fo:font-size="8.0000pt" fo:font-weight="bold"/>
+    </style:style>
+    <style:style style:family="text" style:name="Span9">
+      <style:text-properties style:font-name="Myriad Roman" style:font-name-asian="Myriad Roman" style:font-name-complex="Myriad Roman" style:font-size-asian="7.0000pt" style:font-size-complex="7.0000pt" fo:color="#000000" fo:font-size="7.0000pt"/>
+    </style:style>
+    <style:page-layout style:name="PM0">
+      <style:page-layout-properties style:print-orientation="portrait" fo:margin-bottom="0in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:page-height="8.2681in" fo:page-width="11.6931in"/>
+    </style:page-layout>
+    <style:style style:family="drawing-page" style:name="dp1">
+      <style:drawing-page-properties draw:fill="none"/>
+    </style:style>
+  </office:automatic-styles>
+  <office:master-styles>
+    <style:master-page draw:style-name="dp1" style:name="Default" style:page-layout-name="PM0"/>
+    <style:master-page draw:style-name="dp1" style:name="Default" style:page-layout-name="PM0"/>
+  </office:master-styles>
+  <office:body>
+    <office:drawing>
+      <draw:page draw:master-page-name="Default" draw:name="page1" draw:style-name="dp1">
+        <draw:path draw:layer="layout" draw:style-name="gr_0" svg:d="M0 0L15150 0L15150 21600L0 21600 Z" svg:height="8.5042in" svg:viewBox="0 0 15150 21600" svg:width="5.9646in" svg:x="5.8465in" svg:y="-0.1181in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_1" svg:d="M0 0L14850 0L14850 21000L0 21000 Z" svg:height="8.2681in" svg:viewBox="0 0 14850 21000" svg:width="5.8465in" svg:x="5.8465in" svg:y="0.0000in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_1" svg:d="M0 0L14850 0L14850 11747L0 11747 Z" svg:height="4.6250in" svg:viewBox="0 0 14850 11747" svg:width="5.8465in" svg:x="0.1694in" svg:y="2.5611in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M0 0L915 0L915 913L0 913 Z" svg:height="0.3597in" svg:viewBox="0 0 915 913" svg:width="0.3604in" svg:x="4.6160in" svg:y="4.9826in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_3" svg:d="M0 0L915 0L915 913L0 913 Z" svg:height="0.3597in" svg:viewBox="0 0 915 913" svg:width="0.3604in" svg:x="5.0056in" svg:y="4.9826in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_4" svg:d="M0 0L915 0L915 913L0 913 Z" svg:height="0.3597in" svg:viewBox="0 0 915 913" svg:width="0.3604in" svg:x="4.6160in" svg:y="5.3729in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_5" svg:d="M0 0L915 0L915 913L0 913 Z" svg:height="0.3597in" svg:viewBox="0 0 915 913" svg:width="0.3604in" svg:x="5.0056in" svg:y="5.3729in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_1" svg:d="M0 0L14850 0L14850 11747L0 11747 Z" svg:height="4.6250in" svg:viewBox="0 0 14850 11747" svg:width="5.8465in" svg:x="6.0042in" svg:y="2.4438in"/>
+        <draw:line draw:layer="layout" draw:style-name="gr_6" svg:x1="8.7764in" svg:x2="8.7694in" svg:y1="1.8215in" svg:y2="3.3528in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M0 127A127 127 0 0 0 254 127A127 127 0 1 0 0 127 Z" svg:height="0.1000in" svg:viewBox="0 0 254 254" svg:width="0.1000in" svg:x="8.7194in" svg:y="3.3028in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_7" svg:d="M0 0L1905 0L1905 1905L0 1905 Z" svg:height="0.7500in" svg:viewBox="0 0 1905 1905" svg:width="0.7500in" svg:x="8.3944in" svg:y="1.4542in"/>
+        <draw:line draw:layer="layout" draw:style-name="gr_6" svg:x1="8.7764in" svg:x2="8.7694in" svg:y1="4.9153in" svg:y2="6.4465in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_5" svg:d="M0 127A127 127 0 0 0 254 127A127 127 0 1 0 0 127 Z" svg:height="0.1000in" svg:viewBox="0 0 254 254" svg:width="0.1000in" svg:x="8.7194in" svg:y="4.8625in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_7" svg:d="M0 0L1905 0L1905 1905L0 1905 Z" svg:height="0.7500in" svg:viewBox="0 0 1905 1905" svg:width="0.7500in" svg:x="8.3944in" svg:y="6.0722in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_8" svg:d="M0 649A2174 649 0 0 0 4349 649A2174 649 0 1 0 0 649 Z" svg:height="0.5118in" svg:viewBox="0 0 4349 1299" svg:width="1.7125in" svg:x="2.0396in" svg:y="2.6910in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_9" svg:d="M0 0L7089 0L7089 1970L0 1970 Z" svg:height="0.7757in" svg:viewBox="0 0 7089 1970" svg:width="2.7910in" svg:x="7.3389in" svg:y="0.2222in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.5000in" svg:width="5.8465in" svg:x="0.1701in" svg:y="4.6236in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span0">Street Address, City, ST <text:s/>91234<text:line-break/></text:span>
+              <text:span text:style-name="Span0">Tel: 555 555 5555 <text:s/>Fax: 555 555 5555<text:line-break/></text:span>
+              <text:span text:style-name="Span0">email@address.com <text:s/>www.company123.com</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="4.6167in" svg:y="5.0792in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span1">L</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="5.0063in" svg:y="5.0792in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span1">O</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="4.6167in" svg:y="5.4694in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span1">G</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="5.0063in" svg:y="5.4694in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span1">O</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.5000in" svg:width="5.8465in" svg:x="6.0049in" svg:y="4.5062in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span2">Welcome to the <text:s/>ABC Products Catalog.</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.4000in" svg:width="0.7500in" svg:x="8.3951in" svg:y="1.6292in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span3">Place<text:line-break/>Artwork<text:line-break/></text:span>
+            </text:p>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span3">Here</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.4000in" svg:width="0.7500in" svg:x="8.3951in" svg:y="6.2472in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span4">Place<text:line-break/>Artwork<text:line-break/>Here</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="1.6833in" svg:width="4.0361in" svg:x="0.4556in" svg:y="0.5236in">
+          <draw:text-box>
+            <text:p text:style-name="S1">
+              <text:span text:style-name="Span5">
+                <text:tab/>
+              </text:span>
+              <text:span text:style-name="Span6">Template Type:<text:tab/>Brochure<text:line-break/><text:tab/>Code:<text:tab/>3000366.PMT</text:span>
+              <text:span text:style-name="Span5">
+                <text:line-break/>
+              </text:span>
+              <text:span text:style-name="Span7">
+                <text:tab/>
+              </text:span>
+              <text:span text:style-name="Span8">Description</text:span>
+              <text:span text:style-name="Span7">:<text:tab/></text:span>
+              <text:span text:style-name="Span9">A4, 4 Color Process, ensure that photography is of adequate resolution for printing requirements <text:s/></text:span>
+              <text:span text:style-name="Span7">
+                <text:line-break/>
+                <text:tab/>
+              </text:span>
+              <text:span text:style-name="Span8">Font Families:</text:span>
+              <text:span text:style-name="Span7">
+                <text:tab/>
+              </text:span>
+              <text:span text:style-name="Span9">Adobe Graramond<text:line-break/></text:span>
+              <text:span text:style-name="Span7">
+                <text:tab/>
+              </text:span>
+              <text:span text:style-name="Span8">Production Notes</text:span>
+              <text:span text:style-name="Span7">:<text:tab/></text:span>
+              <text:span text:style-name="Span9">Typographic elements are PageMaker generated.<text:line-break/><text:tab/></text:span>
+              <text:span text:style-name="Span10">Avery SKU #:</text:span>
+              <text:span text:style-name="Span9"><text:tab/>None<text:line-break/></text:span>
+              <text:span text:style-name="Span7">
+                <text:tab/>
+              </text:span>
+              <text:span text:style-name="Span8">Technical Level</text:span>
+              <text:span text:style-name="Span7">:<text:tab/></text:span>
+              <text:span text:style-name="Span7"/>
+              <text:span text:style-name="Span7"> </text:span>
+              <text:span text:style-name="Span7"/>
+              <text:span text:style-name="Span7"> </text:span>
+              <text:span text:style-name="Span7"/>
+              <text:span text:style-name="Span7">
+                <text:line-break/>
+              </text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:path draw:layer="layout" draw:style-name="gr_11" svg:d="M0 0L10795 0L10795 5715L0 5715 Z" svg:height="2.2500in" svg:viewBox="0 0 10795 5715" svg:width="4.2500in" svg:x="0.3486in" svg:y="0.2403in"/>
+        <draw:line draw:layer="layout" draw:style-name="gr_6" svg:x1="2.5924in" svg:x2="2.6063in" svg:y1="1.1986in" svg:y2="10.4743in"/>
+      </draw:page>
+      <draw:page draw:master-page-name="Default" draw:name="page2" draw:style-name="dp1">
+        <draw:path draw:layer="layout" draw:style-name="gr_0" svg:d="M0 0L15150 0L15150 21600L0 21600 Z" svg:height="8.5042in" svg:viewBox="0 0 15150 21600" svg:width="5.9646in" svg:x="5.8465in" svg:y="-0.1181in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_1" svg:d="M0 0L14850 0L14850 21000L0 21000 Z" svg:height="8.2681in" svg:viewBox="0 0 14850 21000" svg:width="5.8465in" svg:x="5.8465in" svg:y="0.0000in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_1" svg:d="M0 0L14850 0L14850 21000L0 21000 Z" svg:height="8.2681in" svg:viewBox="0 0 14850 21000" svg:width="5.8465in" svg:x="0.0000in" svg:y="0.0000in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_1" svg:d="M0 0L14850 0L14850 21590L0 21590 Z" svg:height="8.5000in" svg:viewBox="0 0 14850 21590" svg:width="5.8465in" svg:x="5.8444in" svg:y="-0.1792in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M0 0L915 0L915 913L0 913 Z" svg:height="0.3597in" svg:viewBox="0 0 915 913" svg:width="0.3604in" svg:x="4.1438in" svg:y="7.1438in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_3" svg:d="M0 0L915 0L915 913L0 913 Z" svg:height="0.3597in" svg:viewBox="0 0 915 913" svg:width="0.3604in" svg:x="4.5333in" svg:y="7.1438in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_4" svg:d="M0 0L915 0L915 913L0 913 Z" svg:height="0.3597in" svg:viewBox="0 0 915 913" svg:width="0.3604in" svg:x="4.1438in" svg:y="7.5340in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_5" svg:d="M0 0L915 0L915 913L0 913 Z" svg:height="0.3597in" svg:viewBox="0 0 915 913" svg:width="0.3604in" svg:x="4.5333in" svg:y="7.5340in"/>
+        <draw:line draw:layer="layout" draw:style-name="gr_6" svg:x1="2.0458in" svg:x2="0.4486in" svg:y1="4.5181in" svg:y2="4.5250in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_7" svg:d="M0 0L1905 0L1905 1905L0 1905 Z" svg:height="0.7500in" svg:viewBox="0 0 1905 1905" svg:width="0.7500in" svg:x="0.3938in" svg:y="4.1437in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_4" svg:d="M134 268A134 134 -90 0 0 134 0A134 134 -90 1 0 134 268 Z" svg:height="0.1056in" svg:viewBox="0 0 268 268" svg:width="0.1056in" svg:x="1.9931in" svg:y="4.4715in"/>
+        <draw:line draw:layer="layout" draw:style-name="gr_6" svg:x1="0.4486in" svg:x2="1.5944in" svg:y1="6.6771in" svg:y2="6.6840in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_12" svg:d="M0 0L1905 0L1905 3810L0 3810 Z" svg:height="1.5000in" svg:viewBox="0 0 1905 3810" svg:width="0.7500in" svg:x="0.3938in" svg:y="6.3938in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_13" svg:d="M134 0A134 134 90 0 0 134 268A134 134 90 1 0 134 0 Z" svg:height="0.1056in" svg:viewBox="0 0 268 268" svg:width="0.1056in" svg:x="1.5375in" svg:y="6.6306in"/>
+        <draw:line draw:layer="layout" draw:style-name="gr_6" svg:x1="1.2472in" svg:x2="2.3403in" svg:y1="1.4271in" svg:y2="1.4340in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_7" svg:d="M0 0L3809 0L3809 1905L0 1905 Z" svg:height="0.7500in" svg:viewBox="0 0 3809 1905" svg:width="1.5000in" svg:x="0.3938in" svg:y="1.1438in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_13" svg:d="M134 268A134 134 -90 0 0 134 0A134 134 -90 1 0 134 268 Z" svg:height="0.1056in" svg:viewBox="0 0 268 268" svg:width="0.1056in" svg:x="2.2840in" svg:y="1.3687in"/>
+        <draw:line draw:layer="layout" draw:style-name="gr_6" svg:x1="4.4424in" svg:x2="2.8451in" svg:y1="2.9201in" svg:y2="2.9271in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_7" svg:d="M0 0L5714 0L5714 3810L0 3810 Z" svg:height="1.5000in" svg:viewBox="0 0 5714 3810" svg:width="2.2500in" svg:x="1.1438in" svg:y="2.6437in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M134 268A134 134 -90 0 0 134 0A134 134 -90 1 0 134 268 Z" svg:height="0.1056in" svg:viewBox="0 0 268 268" svg:width="0.1056in" svg:x="4.3889in" svg:y="2.8743in"/>
+        <draw:line draw:layer="layout" draw:style-name="gr_6" svg:x1="6.8389in" svg:x2="5.2410in" svg:y1="2.1688in" svg:y2="2.1757in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_7" svg:d="M0 0L3810 0L3810 1904L0 1904 Z" svg:height="0.7500in" svg:viewBox="0 0 3810 1904" svg:width="1.5000in" svg:x="4.1438in" svg:y="1.8938in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_4" svg:d="M134 268A134 134 -90 0 0 134 0A134 134 -90 1 0 134 268 Z" svg:height="0.1056in" svg:viewBox="0 0 268 268" svg:width="0.1056in" svg:x="6.8181in" svg:y="2.1222in"/>
+        <draw:line draw:layer="layout" draw:style-name="gr_6" svg:x1="7.6375in" svg:x2="4.4424in" svg:y1="0.6701in" svg:y2="0.6771in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_7" svg:d="M0 0L1905 0L1905 1905L0 1905 Z" svg:height="0.7500in" svg:viewBox="0 0 1905 1905" svg:width="0.7500in" svg:x="4.1438in" svg:y="0.3938in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_2" svg:d="M134 268A134 134 -90 0 0 134 0A134 134 -90 1 0 134 268 Z" svg:height="0.1056in" svg:viewBox="0 0 268 268" svg:width="0.1056in" svg:x="7.5840in" svg:y="0.6229in"/>
+        <draw:line draw:layer="layout" draw:style-name="gr_6" svg:x1="5.2410in" svg:x2="3.6438in" svg:y1="5.1701in" svg:y2="5.1771in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_7" svg:d="M0 0L3810 0L3810 3810L0 3810 Z" svg:height="1.5000in" svg:viewBox="0 0 3810 3810" svg:width="1.5000in" svg:x="2.6438in" svg:y="4.8937in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_5" svg:d="M134 268A134 134 -90 0 0 134 0A134 134 -90 1 0 134 268 Z" svg:height="0.1056in" svg:viewBox="0 0 268 268" svg:width="0.1056in" svg:x="5.1875in" svg:y="5.1243in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_1" svg:d="M0 0L3810 0L3810 1905L0 1905 Z" svg:height="0.7500in" svg:viewBox="0 0 3810 1905" svg:width="1.5000in" svg:x="7.8938in" svg:y="0.3938in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_1" svg:d="M0 0L3810 0L3810 1904L0 1904 Z" svg:height="0.7500in" svg:viewBox="0 0 3810 1904" svg:width="1.5000in" svg:x="7.1438in" svg:y="1.8938in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_1" svg:d="M0 0L1905 0L1905 2917L0 2917 Z" svg:height="1.1486in" svg:viewBox="0 0 1905 2917" svg:width="0.7500in" svg:x="4.1438in" svg:y="2.9951in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_1" svg:d="M0 0L3810 0L3810 1905L0 1905 Z" svg:height="0.7500in" svg:viewBox="0 0 3810 1905" svg:width="1.5000in" svg:x="1.8938in" svg:y="6.3938in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_1" svg:d="M0 0L3810 0L3810 1905L0 1905 Z" svg:height="0.7500in" svg:viewBox="0 0 3810 1905" svg:width="1.5000in" svg:x="2.6438in" svg:y="1.1438in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_1" svg:d="M0 0L3810 0L3810 1905L0 1905 Z" svg:height="0.7500in" svg:viewBox="0 0 3810 1905" svg:width="1.5000in" svg:x="2.6438in" svg:y="4.1437in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_1" svg:d="M0 0L1905 0L1905 2919L0 2919 Z" svg:height="1.1493in" svg:viewBox="0 0 1905 2919" svg:width="0.7500in" svg:x="4.8938in" svg:y="5.2444in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_1" svg:d="M0 0L11430 0L11430 11987L0 11987 Z" svg:height="4.7194in" svg:viewBox="0 0 11430 11987" svg:width="4.5000in" svg:x="6.3938in" svg:y="3.1743in"/>
+        <draw:path draw:layer="layout" draw:style-name="gr_1" svg:d="M0 0L1905 0L1905 1905L0 1905 Z" svg:height="0.7500in" svg:viewBox="0 0 1905 1905" svg:width="0.7500in" svg:x="6.3938in" svg:y="2.5840in"/>
+        <draw:line draw:layer="layout" draw:style-name="gr_6" svg:x1="5.8389in" svg:x2="5.8528in" svg:y1="-0.5014in" svg:y2="8.7743in"/>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.4500in" svg:width="0.7500in" svg:x="0.3944in" svg:y="4.2938in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span11">Place<text:line-break/>Artwork<text:line-break/>Here</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.4500in" svg:width="0.7500in" svg:x="4.1444in" svg:y="0.5438in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span11">Place<text:line-break/>Artwork<text:line-break/>Here</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.4500in" svg:width="0.7500in" svg:x="0.3944in" svg:y="6.9188in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span11">Place<text:line-break/>Artwork<text:line-break/>Here</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.1500in" svg:width="1.5000in" svg:x="4.1444in" svg:y="2.1938in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span11">Place Artwork Here</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.4500in" svg:width="1.5000in" svg:x="2.6444in" svg:y="5.4188in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span11">Place<text:line-break/>Artwork<text:line-break/>Here</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.4500in" svg:width="2.2500in" svg:x="1.1444in" svg:y="3.1688in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span11">Place<text:line-break/>Artwork<text:line-break/>Here</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.1500in" svg:width="1.5000in" svg:x="0.3944in" svg:y="1.4438in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span11">Place Artwork Here</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.5000in" svg:width="1.5000in" svg:x="7.8944in" svg:y="0.5188in">
+          <draw:text-box>
+            <text:p text:style-name="S2">
+              <text:span text:style-name="Span12">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse duis dolore te feugait nulla facilisi. </text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.3889in" svg:width="0.7500in" svg:x="6.3944in" svg:y="2.9444in">
+          <draw:text-box>
+            <text:p text:style-name="S3">
+              <text:span text:style-name="Span13">A</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="4.1444in" svg:y="7.2403in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span1">L</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="4.5340in" svg:y="7.2403in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span1">O</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="4.1444in" svg:y="7.6306in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span1">G</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="4.5340in" svg:y="7.6306in">
+          <draw:text-box>
+            <text:p text:style-name="S0">
+              <text:span text:style-name="Span1">O</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.5000in" svg:width="1.5000in" svg:x="7.1444in" svg:y="2.0188in">
+          <draw:text-box>
+            <text:p text:style-name="S2">
+              <text:span text:style-name="Span12">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse duis dolore te feugait nulla facilisi. </text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="1.0000in" svg:width="0.7500in" svg:x="4.1444in" svg:y="3.1431in">
+          <draw:text-box>
+            <text:p text:style-name="S2">
+              <text:span text:style-name="Span12">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse duis dolore te feugait nulla.</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.5000in" svg:width="1.5000in" svg:x="1.8944in" svg:y="6.5188in">
+          <draw:text-box>
+            <text:p text:style-name="S2">
+              <text:span text:style-name="Span12">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse duis dolore te feugait nulla facilisi. </text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.5000in" svg:width="1.5000in" svg:x="2.6444in" svg:y="1.2688in">
+          <draw:text-box>
+            <text:p text:style-name="S2">
+              <text:span text:style-name="Span12">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse duis dolore te feugait nulla facilisi. </text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.5000in" svg:width="1.5000in" svg:x="2.6444in" svg:y="4.2687in">
+          <draw:text-box>
+            <text:p text:style-name="S2">
+              <text:span text:style-name="Span12">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse duis dolore te feugait nulla facilisi. </text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="1.0000in" svg:width="0.7500in" svg:x="4.8944in" svg:y="5.3931in">
+          <draw:text-box>
+            <text:p text:style-name="S2">
+              <text:span text:style-name="Span12">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse duis dolore te feugait nulla </text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="4.4444in" svg:width="4.5000in" svg:x="6.3938in" svg:y="3.1743in">
+          <draw:text-box>
+            <text:p text:style-name="S4">
+              <text:span text:style-name="Span14">dorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.<text:line-break/></text:span>
+            </text:p>
+            <text:p text:style-name="S4">
+              <text:span text:style-name="Span14">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.<text:line-break/></text:span>
+              <text:span text:style-name="Span14">Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.<text:line-break/></text:span>
+              <text:span text:style-name="Span14">Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea nonummy nibh euismod commodo consequat. <text:s/>Lorem ipsum lobortis nisl ut aliquip dolor ex ea commodo consequat ipsum wisi laoreet.</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="7.9861in" svg:width="5.8465in" svg:x="0.0007in" svg:y="0.1410in">
+          <draw:text-box>
+            <text:p text:style-name="S3">
+              <text:span text:style-name="Span15">ABCDEFGHIJKLMNOPQRSTUVWXYZ</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="7.9861in" svg:width="5.8465in" svg:x="5.8451in" svg:y="0.0778in">
+          <draw:text-box>
+            <text:p text:style-name="S3">
+              <text:span text:style-name="Span16">ABCDEFGHIJKLMNOPQRSTUVWXYZ</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="7.9861in" svg:width="5.8465in" svg:x="5.8472in" svg:y="0.1410in">
+          <draw:text-box>
+            <text:p text:style-name="S3">
+              <text:span text:style-name="Span17">ABCDEFGHIJKLMNOPQRSTUVWXYZ</text:span>
+            </text:p>
+          </draw:text-box>
+        </draw:frame>
+      </draw:page>
+    </office:drawing>
+  </office:body>
+</office:document>
