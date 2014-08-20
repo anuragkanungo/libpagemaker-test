@@ -47,7 +47,7 @@
     <office:drawing>
       <draw:page draw:master-page-name="Default" draw:name="page1" draw:style-name="dp1">
         <draw:path draw:layer="layout" draw:style-name="gr_0" svg:d="M0 1428A5576 1428 0 0 0 11153 1428A5576 1428 0 1 0 0 1428 Z" svg:height="1.1250in" svg:viewBox="0 0 11153 2857" svg:width="4.3910in" svg:x="1.9375in" svg:y="4.2660in"/>
-        <draw:frame draw:layer="layout" draw:style-name="gr_1" svg:height="2.4000in" svg:width="6.4958in" svg:x="0.9840in" svg:y="6.3743in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_1" svg:height="2.4000in" svg:width="6.4958in" svg:x="0.9840in" svg:y="6.3743in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span0">Double Sided Multi Page</text:span>

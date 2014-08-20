@@ -43,7 +43,7 @@
     <office:drawing>
       <draw:page draw:master-page-name="Default" draw:name="page1" draw:style-name="dp1">
         <draw:path draw:layer="layout" draw:style-name="gr_0" svg:d="M0 0L9325 0L9325 6390L0 6390 Z" svg:height="2.5160in" svg:viewBox="0 0 9325 6390" svg:width="3.6715in" svg:x="2.5160in" svg:y="3.1403in"/>
-        <draw:frame draw:layer="layout" draw:style-name="gr_1" svg:height="0.6000in" svg:width="3.3104in" svg:x="2.6965in" svg:y="3.3208in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_1" svg:height="0.6000in" svg:width="3.3104in" svg:x="2.6965in" svg:y="3.3208in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span0">Hi this is colored text<text:line-break/><text:line-break/></text:span>

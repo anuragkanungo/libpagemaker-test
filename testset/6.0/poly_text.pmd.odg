@@ -40,7 +40,7 @@
     <office:drawing>
       <draw:page draw:master-page-name="Default" draw:name="page1" draw:style-name="dp1">
         <draw:path draw:layer="layout" draw:style-name="gr_0" svg:d="M2173 9447L0 4723L2173 0L6519 0L8692 4723L6519 9447 Z" svg:height="3.7194in" svg:viewBox="0 0 8692 9447" svg:width="3.4222in" svg:x="2.4681in" svg:y="3.4993in"/>
-        <draw:frame draw:layer="layout" draw:style-name="gr_1" svg:height="0.6000in" svg:width="3.0208in" svg:x="2.6688in" svg:y="3.6826in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_1" svg:height="0.6000in" svg:width="3.0208in" svg:x="2.6688in" svg:y="3.6826in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span0">Poly text<text:line-break/>Hello<text:line-break/>Testing</text:span>

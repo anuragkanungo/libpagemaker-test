@@ -40,7 +40,7 @@
     <office:drawing>
       <draw:page draw:master-page-name="Default" draw:name="page1" draw:style-name="dp1">
         <draw:path draw:layer="layout" draw:style-name="gr_0" svg:d="M0 1785A5219 1785 0 0 0 10438 1785A5219 1785 0 1 0 0 1785 Z" svg:height="1.4062in" svg:viewBox="0 0 10438 3571" svg:width="4.1097in" svg:x="2.4688in" svg:y="3.6875in"/>
-        <draw:frame draw:layer="layout" draw:style-name="gr_1" svg:height="0.6000in" svg:width="3.7486in" svg:x="2.6493in" svg:y="3.8681in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_1" svg:height="0.6000in" svg:width="3.7486in" svg:x="2.6493in" svg:y="3.8681in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span0">Text in ellipse<text:line-break/>Hello</text:span>

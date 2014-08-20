@@ -158,7 +158,7 @@
         <draw:path draw:layer="layout" draw:style-name="gr_7" svg:d="M0 0L1905 0L1905 1905L0 1905 Z" svg:height="0.7500in" svg:viewBox="0 0 1905 1905" svg:width="0.7500in" svg:x="8.3944in" svg:y="6.0722in"/>
         <draw:path draw:layer="layout" draw:style-name="gr_8" svg:d="M0 649A2174 649 0 0 0 4349 649A2174 649 0 1 0 0 649 Z" svg:height="0.5118in" svg:viewBox="0 0 4349 1299" svg:width="1.7125in" svg:x="2.0396in" svg:y="2.6910in"/>
         <draw:path draw:layer="layout" draw:style-name="gr_9" svg:d="M0 0L7089 0L7089 1970L0 1970 Z" svg:height="0.7757in" svg:viewBox="0 0 7089 1970" svg:width="2.7910in" svg:x="7.3389in" svg:y="0.2222in"/>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.5000in" svg:width="5.8465in" svg:x="0.1701in" svg:y="4.6236in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.5000in" svg:width="5.8465in" svg:x="0.1701in" svg:y="4.6236in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span0">Street Address, City, ST <text:s/>91234<text:line-break/></text:span>
@@ -167,42 +167,42 @@
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="4.6167in" svg:y="5.0792in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="4.6167in" svg:y="5.0792in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span1">L</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="5.0063in" svg:y="5.0792in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="5.0063in" svg:y="5.0792in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span1">O</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="4.6167in" svg:y="5.4694in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="4.6167in" svg:y="5.4694in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span1">G</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="5.0063in" svg:y="5.4694in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="5.0063in" svg:y="5.4694in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span1">O</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.5000in" svg:width="5.8465in" svg:x="6.0049in" svg:y="4.5062in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.5000in" svg:width="5.8465in" svg:x="6.0049in" svg:y="4.5062in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span2">Welcome to the <text:s/>ABC Products Catalog.</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.4000in" svg:width="0.7500in" svg:x="8.3951in" svg:y="1.6292in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.4000in" svg:width="0.7500in" svg:x="8.3951in" svg:y="1.6292in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span3">Place<text:line-break/>Artwork<text:line-break/></text:span>
@@ -212,14 +212,14 @@
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.4000in" svg:width="0.7500in" svg:x="8.3951in" svg:y="6.2472in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.4000in" svg:width="0.7500in" svg:x="8.3951in" svg:y="6.2472in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span4">Place<text:line-break/>Artwork<text:line-break/>Here</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="1.6833in" svg:width="4.0361in" svg:x="0.4556in" svg:y="0.5236in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="1.6833in" svg:width="4.0361in" svg:x="0.4556in" svg:y="0.5236in">
           <draw:text-box>
             <text:p text:style-name="S1">
               <text:span text:style-name="Span5">
@@ -311,140 +311,140 @@
         <draw:path draw:layer="layout" draw:style-name="gr_1" svg:d="M0 0L11430 0L11430 11987L0 11987 Z" svg:height="4.7194in" svg:viewBox="0 0 11430 11987" svg:width="4.5000in" svg:x="6.3938in" svg:y="3.1743in"/>
         <draw:path draw:layer="layout" draw:style-name="gr_1" svg:d="M0 0L1905 0L1905 1905L0 1905 Z" svg:height="0.7500in" svg:viewBox="0 0 1905 1905" svg:width="0.7500in" svg:x="6.3938in" svg:y="2.5840in"/>
         <draw:line draw:layer="layout" draw:style-name="gr_6" svg:x1="5.8389in" svg:x2="5.8528in" svg:y1="-0.5014in" svg:y2="8.7743in"/>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.4500in" svg:width="0.7500in" svg:x="0.3944in" svg:y="4.2938in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.4500in" svg:width="0.7500in" svg:x="0.3944in" svg:y="4.2938in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span11">Place<text:line-break/>Artwork<text:line-break/>Here</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.4500in" svg:width="0.7500in" svg:x="4.1444in" svg:y="0.5438in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.4500in" svg:width="0.7500in" svg:x="4.1444in" svg:y="0.5438in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span11">Place<text:line-break/>Artwork<text:line-break/>Here</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.4500in" svg:width="0.7500in" svg:x="0.3944in" svg:y="6.9188in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.4500in" svg:width="0.7500in" svg:x="0.3944in" svg:y="6.9188in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span11">Place<text:line-break/>Artwork<text:line-break/>Here</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.1500in" svg:width="1.5000in" svg:x="4.1444in" svg:y="2.1938in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.1500in" svg:width="1.5000in" svg:x="4.1444in" svg:y="2.1938in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span11">Place Artwork Here</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.4500in" svg:width="1.5000in" svg:x="2.6444in" svg:y="5.4188in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.4500in" svg:width="1.5000in" svg:x="2.6444in" svg:y="5.4188in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span11">Place<text:line-break/>Artwork<text:line-break/>Here</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.4500in" svg:width="2.2500in" svg:x="1.1444in" svg:y="3.1688in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.4500in" svg:width="2.2500in" svg:x="1.1444in" svg:y="3.1688in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span11">Place<text:line-break/>Artwork<text:line-break/>Here</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.1500in" svg:width="1.5000in" svg:x="0.3944in" svg:y="1.4438in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.1500in" svg:width="1.5000in" svg:x="0.3944in" svg:y="1.4438in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span11">Place Artwork Here</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.5000in" svg:width="1.5000in" svg:x="7.8944in" svg:y="0.5188in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.5000in" svg:width="1.5000in" svg:x="7.8944in" svg:y="0.5188in">
           <draw:text-box>
             <text:p text:style-name="S2">
               <text:span text:style-name="Span12">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse duis dolore te feugait nulla facilisi. </text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.3889in" svg:width="0.7500in" svg:x="6.3944in" svg:y="2.9444in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.3889in" svg:width="0.7500in" svg:x="6.3944in" svg:y="2.9444in">
           <draw:text-box>
             <text:p text:style-name="S3">
               <text:span text:style-name="Span13">A</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="4.1444in" svg:y="7.2403in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="4.1444in" svg:y="7.2403in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span1">L</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="4.5340in" svg:y="7.2403in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="4.5340in" svg:y="7.2403in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span1">O</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="4.1444in" svg:y="7.6306in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="4.1444in" svg:y="7.6306in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span1">G</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="4.5340in" svg:y="7.6306in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.1667in" svg:width="0.3604in" svg:x="4.5340in" svg:y="7.6306in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span1">O</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.5000in" svg:width="1.5000in" svg:x="7.1444in" svg:y="2.0188in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.5000in" svg:width="1.5000in" svg:x="7.1444in" svg:y="2.0188in">
           <draw:text-box>
             <text:p text:style-name="S2">
               <text:span text:style-name="Span12">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse duis dolore te feugait nulla facilisi. </text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="1.0000in" svg:width="0.7500in" svg:x="4.1444in" svg:y="3.1431in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="1.0000in" svg:width="0.7500in" svg:x="4.1444in" svg:y="3.1431in">
           <draw:text-box>
             <text:p text:style-name="S2">
               <text:span text:style-name="Span12">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse duis dolore te feugait nulla.</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.5000in" svg:width="1.5000in" svg:x="1.8944in" svg:y="6.5188in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.5000in" svg:width="1.5000in" svg:x="1.8944in" svg:y="6.5188in">
           <draw:text-box>
             <text:p text:style-name="S2">
               <text:span text:style-name="Span12">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse duis dolore te feugait nulla facilisi. </text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.5000in" svg:width="1.5000in" svg:x="2.6444in" svg:y="1.2688in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.5000in" svg:width="1.5000in" svg:x="2.6444in" svg:y="1.2688in">
           <draw:text-box>
             <text:p text:style-name="S2">
               <text:span text:style-name="Span12">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse duis dolore te feugait nulla facilisi. </text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="0.5000in" svg:width="1.5000in" svg:x="2.6444in" svg:y="4.2687in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="0.5000in" svg:width="1.5000in" svg:x="2.6444in" svg:y="4.2687in">
           <draw:text-box>
             <text:p text:style-name="S2">
               <text:span text:style-name="Span12">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse duis dolore te feugait nulla facilisi. </text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="1.0000in" svg:width="0.7500in" svg:x="4.8944in" svg:y="5.3931in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="1.0000in" svg:width="0.7500in" svg:x="4.8944in" svg:y="5.3931in">
           <draw:text-box>
             <text:p text:style-name="S2">
               <text:span text:style-name="Span12">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse duis dolore te feugait nulla </text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="4.4444in" svg:width="4.5000in" svg:x="6.3938in" svg:y="3.1743in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="4.4444in" svg:width="4.5000in" svg:x="6.3938in" svg:y="3.1743in">
           <draw:text-box>
             <text:p text:style-name="S4">
               <text:span text:style-name="Span14">dorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.<text:line-break/></text:span>
@@ -456,21 +456,21 @@
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="7.9861in" svg:width="5.8465in" svg:x="0.0007in" svg:y="0.1410in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="7.9861in" svg:width="5.8465in" svg:x="0.0007in" svg:y="0.1410in">
           <draw:text-box>
             <text:p text:style-name="S3">
               <text:span text:style-name="Span15">ABCDEFGHIJKLMNOPQRSTUVWXYZ</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="7.9861in" svg:width="5.8465in" svg:x="5.8451in" svg:y="0.0778in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="7.9861in" svg:width="5.8465in" svg:x="5.8451in" svg:y="0.0778in">
           <draw:text-box>
             <text:p text:style-name="S3">
               <text:span text:style-name="Span16">ABCDEFGHIJKLMNOPQRSTUVWXYZ</text:span>
             </text:p>
           </draw:text-box>
         </draw:frame>
-        <draw:frame draw:layer="layout" draw:style-name="gr_10" svg:height="7.9861in" svg:width="5.8465in" svg:x="5.8472in" svg:y="0.1410in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_10" svg:height="7.9861in" svg:width="5.8465in" svg:x="5.8472in" svg:y="0.1410in">
           <draw:text-box>
             <text:p text:style-name="S3">
               <text:span text:style-name="Span17">ABCDEFGHIJKLMNOPQRSTUVWXYZ</text:span>

@@ -56,7 +56,7 @@
       </draw:page>
       <draw:page draw:master-page-name="Default" draw:name="page5" draw:style-name="dp1"/>
       <draw:page draw:master-page-name="Default" draw:name="page6" draw:style-name="dp1">
-        <draw:frame draw:layer="layout" draw:style-name="gr_2" svg:height="0.2000in" svg:width="6.7500in" svg:x="1.0000in" svg:y="4.7028in">
+        <draw:frame draw:fill="none" draw:layer="layout" draw:style-name="gr_2" svg:height="0.2000in" svg:width="6.7500in" svg:x="1.0000in" svg:y="4.7028in">
           <draw:text-box>
             <text:p text:style-name="S0">
               <text:span text:style-name="Span0">Multi page single sided</text:span>
